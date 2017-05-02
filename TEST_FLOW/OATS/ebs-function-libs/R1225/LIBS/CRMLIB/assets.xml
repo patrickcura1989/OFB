@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+<asset alias="GENLIB" local="true" sourceType="file" type="SCRIPT">
+<location path="../GENLIB" type="relative"/>
+</asset>
+<asset alias="WEBTABLELIB" local="true" sourceType="file" type="SCRIPT">
+<location path="../WEBTABLELIB" type="relative"/>
+</asset>
+</assets>

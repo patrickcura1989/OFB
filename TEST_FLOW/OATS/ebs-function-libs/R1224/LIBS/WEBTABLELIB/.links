@@ -1,0 +1,22 @@
+#OpenScript Auto-generated link file.
+#Tue Apr 28 04:15:40 PDT 2015
+Attach_Roles_To_UDA-139692755=O\\\:\\\\EBS\\ QA\\\\GUIDS\\\\Ganesh\\\\Procurement\\\\XB7_19_06_14\\\\Create_Privileges\\\\Attach_Roles_To_UDA
+PRJTBLVERIFYLIB-1021776926=O\\\:\\\\EBS\\ QA\\\\FWK\\\\R1224\\\\LIBS\\\\PRJTBLVERIFYLIB
+PROCLIB760321851=O\\\:\\\\EBS\\ QA\\\\FWK\\\\R1224\\\\LIBS\\\\PROCLIB
+Create_Roles2134783319=O\\\:\\\\EBS\\ QA\\\\GUIDS\\\\Ganesh\\\\Procurement\\\\XB7_19_06_14\\\\Create_Privileges\\\\Create_Roles
+HRMSLIB-2046110687=O\\\:\\\\EBS\\ QA\\\\FWK\\\\R1224\\\\LIBS\\\\HRMSLIB
+Step1_OPM_Items_Creation-1124784914=O\\\:\\\\EBS\\ QA\\\\GUIDS\\\\Chandrika\\\\Forte\\\\FLows\\\\OPM\\\\Lot_Split_Merge_And_Translate_Using_Lot_Costing_H\\\\Step1_OPM_Items_Creation
+Associate_privileges_To_UDA-679349587=O\\\:\\\\EBS\\ QA\\\\GUIDS\\\\Ganesh\\\\Procurement\\\\XB7_19_06_14\\\\Create_Privileges\\\\Associate_privileges_To_UDA
+SCMLIB2036172764=O\\\:\\\\EBS\\ QA\\\\FWK\\\\R1224\\\\LIBS\\\\SCMLIB
+Attach_Roles_To_UDA291468230=O\\\:\\\\EBS\\ QA\\\\GUIDS\\\\Ganesh\\\\Procurement\\\\XB7_23_06_14\\\\Create_Privileges\\\\Attach_Roles_To_UDA
+Associate_privileges_To_UDA-1573042106=O\\\:\\\\EBS\\ QA\\\\GUIDS\\\\Ganesh\\\\Procurement\\\\XB7_23_06_14\\\\Create_Privileges\\\\Associate_privileges_To_UDA
+Verifying_Profile_Access_Control_To_Supplier1420325838=O\\\:\\\\EBS\\ QA\\\\GUIDS\\\\Ganesh\\\\Procurement\\\\XB7_23_06_14\\\\Create_Privileges\\\\Verifying_Profile_Access_Control_To_Supplier1
+CRMLIB1591959163=O\\\:\\\\EBS\\ QA\\\\FWK\\\\R1224\\\\LIBS\\\\CRMLIB
+PROJLIB760530388=O\\\:\\\\EBS\\ QA\\\\FWK\\\\R1224\\\\LIBS\\\\PROJLIB
+Attribute_Group504020402=O\\\:\\\\EBS\\ QA\\\\GUIDS\\\\Ganesh\\\\Procurement\\\\XB7_19_06_14\\\\UDA_Creation\\\\Attribute_Group
+Creatie_Value_Set1202027824=O\\\:\\\\EBS\\ QA\\\\GUIDS\\\\Ganesh\\\\Procurement\\\\XB7_19_06_14\\\\UDA_Creation\\\\Creatie_Value_Set
+Create_Privileges1908558216=O\\\:\\\\EBS\\ QA\\\\GUIDS\\\\Ganesh\\\\Procurement\\\\XB7_19_06_14\\\\Create_Privileges\\\\Create_Privileges
+Create_Roles5210334=O\\\:\\\\EBS\\ QA\\\\GUIDS\\\\Ganesh\\\\Procurement\\\\XB7_23_06_14\\\\Create_Privileges\\\\Create_Roles
+P2P\ Flow\ Online\ HTML\ Standard\ Purchase\ Order\ Update\ Document-997215986=O\\\:\\\\EBS\\ QA\\\\GUIDS\\\\Smita\\\\12.2.4\\\\P2P_Flow_Online_HTML_Standard_Purchase_Order_Update_Document\\\\P2P\\ Flow\\ Online\\ HTML\\ Standard\\ Purchase\\ Order\\ Update\\ Document
+Verifying_Profile_Access_Control_To_Supplier1-372692875=O\\\:\\\\EBS\\ QA\\\\GUIDS\\\\Ganesh\\\\Procurement\\\\XB7_19_06_14\\\\Create_Privileges\\\\Verifying_Profile_Access_Control_To_Supplier1
+TestLibraries-1979124493=O\\\:\\\\EBS\\ QA\\\\FWK\\\\R1224\\\\LIBS\\\\TestLibraries

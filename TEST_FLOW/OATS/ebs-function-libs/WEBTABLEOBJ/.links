@@ -1,0 +1,11 @@
+#OpenScript Auto-generated link file.
+#Mon Aug 10 23:29:55 PDT 2015
+Approve_PO1043475539=O\\\:\\\\EBS\\ QA\\\\Demo\\\\Create_P2P_Flow\\\\Approve_PO
+GetConcurrentTables698033679=O\\\:\\\\EBS\\ QA\\\\FWK\\\\TEST_LIBRARIES\\\\R1225\\\\GetConcurrentTables
+ReadingDesFromUI_For_PLSQL_Script1304129255=O\\\:\\\\EBS\\ QA\\\\FWK\\\\PLSQL_OI_WEBSERICE\\\\ReadingDesFromUI_For_PLSQL_Script
+PROCLIB420981876=O\\\:\\\\EBS\\ QA\\\\FWK\\\\LIBS\\\\PROCLIB
+TestLibraries-1284605076=O\\\:\\\\EBS\\ QA\\\\FWK\\\\LIBS\\\\TestLibraries
+GENLIB-671751312=O\\\:\\\\EBS\\ QA\\\\FWK\\\\LIBS\\\\GENLIB
+WEBTABLELIB-1786203849=O\\\:\\\\EBS\\ QA\\\\FWK\\\\R1213\\\\LIBS\\\\WEBTABLELIB
+WEBTABLELIB-342112816=O\\\:\\\\EBS\\ QA\\\\FWK\\\\LIBS\\\\WEBTABLELIB
+GENLIB-1801505879=O\\\:\\\\EBS\\ QA\\\\FWK\\\\R1213\\\\LIBS\\\\GENLIB

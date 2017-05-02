@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+<asset alias="EXCELLIB" local="true" sourceType="file" type="SCRIPT">
+<location path="../EXCELLIB" type="relative"/>
+</asset>
+<asset alias="GENLIB" local="true" sourceType="file" type="SCRIPT">
+<location path="../GENLIB" type="relative"/>
+</asset>
+</assets>

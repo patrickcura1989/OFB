@@ -1,0 +1,7 @@
+2677,1,GENLIB,4/24/2015 06:24:12 AM,Passed,4/24/2015 06:24:09 AM,basic.step,LIBS,,,,
+"Page",Record ID,Playback Time (sec),Result,"Summary",Type,
+"Initialize Total (sec)",,2121,Passed,"",basic.init,
+"Launch Browser: InternetExplorer 9.0.8112.16421",,1170,Passed,"",basic.step,
+"Iteration Total (sec)",,222,Passed,"",basic.iteration,
+"Info",,1,Passed,"Comments: pass:true",basic.comment,
+"Finish Total (sec)",,48,Passed,"",basic.finish,

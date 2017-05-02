@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+<asset alias="WEBLABELLIB" local="true" sourceType="file" type="SCRIPT">
+<location path="../WEBLABELLIB" type="relative"/>
+</asset>
+<asset alias="WEBTABLEOBJ" local="true" sourceType="file" type="SCRIPT">
+<location path="../WEBTABLEOBJ" type="relative"/>
+</asset>
+</assets>

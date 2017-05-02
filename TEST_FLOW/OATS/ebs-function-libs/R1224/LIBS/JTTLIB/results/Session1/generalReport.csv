@@ -1,0 +1,6 @@
+9265,1,JTTLIB,10/16/2012 00:16:23 AM,Passed,10/16/2012 00:16:14 AM,basic.step,LIBS,,,,
+"Page",Record ID,Playback Time (sec),Result,"Summary",Type,
+"Initialize Total (sec)",,7563,Passed,"",basic.init,
+"Launch Browser",,5875,Passed,"",basic.step,
+"Iteration Total (sec)",,687,Passed,"",basic.iteration,
+"Finish Total (sec)",,375,Passed,"",basic.finish,

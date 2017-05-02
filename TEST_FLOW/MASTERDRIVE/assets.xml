@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><assets>
+<asset alias="TEST_FLOW" local="true" sourceType="file" type="SCRIPT">
+<location path="../TEST_FLOW" type="relative"/>
+</asset>
+<asset alias="test_scenario_1" local="true" sourceType="file" type="SCRIPT">
+<location path="../test_scenario_1" type="relative"/>
+</asset>
+<asset alias="GENLIB" local="true" sourceType="file" type="SCRIPT">
+<location path="../OATS/ebs-function-libs/GENLIB" type="relative"/>
+</asset>
+</assets>

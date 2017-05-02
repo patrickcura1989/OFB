@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+<asset alias="TELNETLIB" local="true" sourceType="file" type="SCRIPT">
+<location category="EBS QA/FWK/R1225/LIBS" file="TELNETLIB" repository="OATS" type="repository"/>
+</asset>
+</assets>

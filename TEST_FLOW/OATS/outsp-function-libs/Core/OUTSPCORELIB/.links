@@ -1,0 +1,10 @@
+#OpenScript Auto-generated link file.
+#Wed Aug 19 16:46:30 IST 2015
+tmp1803006040=D\\\:\\\\OATSOU\\\\tmp
+Scenario1-18898854=D\\\:\\\\OUTSP-4.2.0\\\\Templates\\\\GeneratedScripts\\\\NON_MDT_SANITY_FLOW\\\\Scenario1
+MDT\ SANITY-853633383=D\\\:\\\\OATSOU\\\\Cloud_MDT\\\\MDT\\ SANITY
+WSCOMMONLIB835318971=D\\\:\\\\OATSOU\\\\outsp-function-libs\\\\Core\\\\WSCOMMONLIB
+WSCOMMONLIB-528736028=D\\\:\\\\OATSOU\\\\outsp-function-libs\\\\WSCOMMONLIB
+OUMWMLIB-1140050437=D\\\:\\\\OATSOU\\\\outsp-function-libs\\\\MWM\\\\OUMWMLIB
+WSScriptTesmplate670526812=C\\\:\\\\Home\\\\OUTSK\\\\FlowGenerator\\\\Templates\\\\WSScriptTesmplate
+OUMWMCONNECTEDMCPLIB-117333654=D\\\:\\\\OATSOU\\\\outsp-function-libs\\\\MWM\\\\OUMWMCONNECTEDMCPLIB

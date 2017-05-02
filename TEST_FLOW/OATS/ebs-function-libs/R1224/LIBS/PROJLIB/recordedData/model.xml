@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model _object_hashcode_="29683225">
+	<element type="oracle.oats.scripting.models.RecordedElement" id="1" _field_name_="root" _object_hashcode_="20334319">
+		<java.util.ArrayList _field_name_="problems" _object_hashcode_="25377374"/>
+		<java.util.HashMap _field_name_="attrs" _object_hashcode_="7152732"/>
+		<java.util.ArrayList _field_name_="children" _object_hashcode_="23999234">
+			<collectionItem _field_name_="entry0" _object_hashcode_="11480164">
+				<int _field_name_="keyObject" _object_hashcode_="15158188">0</int>
+				<element type="oracle.oats.scripting.modules.webdom.modelElements.recorded.RecordedDOMElement" id="2" parentId="1" _field_name_="valueObject" _object_hashcode_="6239141">
+					<java.util.ArrayList _field_name_="problems" _object_hashcode_="3649138"/>
+					<java.util.HashMap _field_name_="attrs" _object_hashcode_="27122746">
+						<collectionItem _field_name_="entry6" _object_hashcode_="9134276">
+							<string _field_name_="keyObject" _object_hashcode_="31638448">windowIndex</string>
+							<literalInt _field_name_="valueObject" _object_hashcode_="10324484">0</literalInt>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry7" _object_hashcode_="8252241">
+							<string _field_name_="keyObject" _object_hashcode_="24684887">ElementTag</string>
+							<literal _field_name_="valueObject" _object_hashcode_="31501434"/>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry8" _object_hashcode_="14959700">
+							<string _field_name_="keyObject" _object_hashcode_="809791">Title</string>
+							<literal _field_name_="valueObject" _object_hashcode_="20621049">Resource Details</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry0" _object_hashcode_="4332959">
+							<string _field_name_="keyObject" _object_hashcode_="28882865">TimeStamp</string>
+							<literal _field_name_="valueObject" _object_hashcode_="2355566">0</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry9" _object_hashcode_="10930809">
+							<string _field_name_="keyObject" _object_hashcode_="15441348">FrameUniqueID</string>
+							<literal _field_name_="valueObject" _object_hashcode_="12770161">0</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry1" _object_hashcode_="3600677">
+							<string _field_name_="keyObject" _object_hashcode_="8510387">IsUserTyped</string>
+							<literal _field_name_="valueObject" _object_hashcode_="25085716">False</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry2" _object_hashcode_="17941935">
+							<string _field_name_="keyObject" _object_hashcode_="21703846">Url</string>
+							<literal _field_name_="valueObject" _object_hashcode_="6316447">http://rws60159rems.us.oracle.com:8037/OA_HTML/OA.jsp?_rc=PA_VIEW_SCHEDULE_LAYOUT&amp;_ri=275&amp;paResourceId=81452&amp;paCalledPage=Schedule&amp;searchType=customize&amp;fwkQBSearchTypeSource=/oracle/apps/pa/regionMap/PA_VIEW_SCHEDULE_LAYOUT__PA_SCHEDULE_REGION_QUERY__275&amp;_ti=1557149592&amp;retainAM=N&amp;addBreadCrumb=RP&amp;oapc=11&amp;oas=EH9ninsC-HbuAgVZ-5kLug..</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry11" _object_hashcode_="29984662">
+							<string _field_name_="keyObject" _object_hashcode_="27736996">tsEnd</string>
+							<literal _field_name_="valueObject" _object_hashcode_="3968213">1349412752390</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry3" _object_hashcode_="31756793">
+							<string _field_name_="keyObject" _object_hashcode_="5212689">Method</string>
+							<literal _field_name_="valueObject" _object_hashcode_="32609936">Get</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry10" _object_hashcode_="19633736">
+							<string _field_name_="keyObject" _object_hashcode_="27585494">AppType</string>
+							<literal _field_name_="valueObject" _object_hashcode_="7811980">HTML</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry4" _object_hashcode_="9921019">
+							<string _field_name_="keyObject" _object_hashcode_="8599573">tsBegin</string>
+							<literal _field_name_="valueObject" _object_hashcode_="14096409">1349412752390</literal>
+							
+							</collectionItem>
+						<collectionItem _field_name_="entry5" _object_hashcode_="10600630">
+							<string _field_name_="keyObject" _object_hashcode_="13439741">path</string>
+							<literal _field_name_="valueObject" _object_hashcode_="26859218">/web:window[@index=&apos;0&apos; or @title=&apos;Resource Details&apos;]</literal>
+							
+							</collectionItem>
+						
+						</java.util.HashMap>
+					<java.util.ArrayList _field_name_="children" _object_hashcode_="15111318"/>
+					
+					</element>
+				
+				</collectionItem>
+			
+			</java.util.ArrayList>
+		
+		</element>
+	
+	</model>

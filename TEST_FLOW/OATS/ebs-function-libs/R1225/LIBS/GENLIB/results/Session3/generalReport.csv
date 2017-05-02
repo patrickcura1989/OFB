@@ -1,0 +1,7 @@
+22939,1,GENLIB,2/24/2014 01:07:24 AM,Passed,2/24/2014 01:07:01 AM,basic.step,LIBS,,,,
+"Page",Record ID,Playback Time (sec),Result,"Summary",Type,
+"Initialize Total (sec)",,1704,Passed,"",basic.init,
+"Launch Browser",,844,Passed,"",basic.step,
+"Iteration Total (sec)",,20829,Passed,"",basic.iteration,
+"Click image(""@index='2'"")",,266,Passed,"",ft.action,
+"Finish Total (sec)",,63,Passed,"",basic.finish,

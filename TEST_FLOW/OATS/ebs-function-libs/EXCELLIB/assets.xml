@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><assets>
+<asset alias="dom4j" local="true" sourceType="file" type="GENERICJAR">
+<location path="dom4j.jar" type="relative"/>
+</asset>
+<asset alias="poi-3_9-20121203" local="true" sourceType="file" type="GENERICJAR">
+<location path="poi-3.9-20121203.jar" type="relative"/>
+</asset>
+<asset alias="poi-ooxml-3_9-20121203" local="true" sourceType="file" type="GENERICJAR">
+<location path="poi-ooxml-3.9-20121203.jar" type="relative"/>
+</asset>
+<asset alias="poi-ooxml-schemas-3_9-20121203" local="true" sourceType="file" type="GENERICJAR">
+<location path="poi-ooxml-schemas-3.9-20121203.jar" type="relative"/>
+</asset>
+<asset alias="xmlbeans-2_3_0" local="true" sourceType="file" type="GENERICJAR">
+<location path="xmlbeans-2.3.0.jar" type="relative"/>
+</asset>
+</assets>

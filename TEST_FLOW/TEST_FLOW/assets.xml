@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><assets>
+<asset alias="GENLIB" local="true" sourceType="file" type="SCRIPT">
+<location path="../OATS/ebs-function-libs/GENLIB" type="relative"/>
+</asset>
+<asset alias="OracleFinancialsLibrary" local="true" sourceType="file" type="SCRIPT">
+<location path="../OATS/OATS/OracleFinancialsLibrary" type="relative"/>
+</asset>
+<asset alias="WEBTABLELIB" local="true" sourceType="file" type="SCRIPT">
+<location path="../OATS/ebs-function-libs/WEBTABLELIB" type="relative"/>
+</asset>
+</assets>

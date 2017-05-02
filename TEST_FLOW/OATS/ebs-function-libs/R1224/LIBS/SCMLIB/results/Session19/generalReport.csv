@@ -1,0 +1,6 @@
+1235,1,SCMLIB,12/05/2012 02:24:56 AM,Passed,12/05/2012 02:24:55 AM,basic.step,LIBS,,,,
+"Page",Record ID,Playback Time (sec),Result,"Summary",Type,
+"Initialize Total (sec)",,719,Passed,"",basic.init,
+"Iteration Total (sec)",,203,Passed,"",basic.iteration,
+"Info",,0,Passed,"Comments: CDO-1001",basic.comment,
+"Finish Total (sec)",,78,Passed,"",basic.finish,

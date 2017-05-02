@@ -1,0 +1,6 @@
+69293,0,MASTERDRIVE,5/02/2017 22:30:42 PM,Failed,5/02/2017 22:29:32 PM,basic.step,TEST_FLOW,,,
+"Page",Record ID,Playback Time (sec),Result,"Summary",Type,
+"Initialize Total (sec)",,68526,Failed,"Cannot get a connection from helper after 60 seconds.",basic.init,
+"Launch Browser: InternetExplorer 11.0.15063.0",,0,Passed,"",basic.step,
+"Close Browser",,2431,Passed,"",basic.step,
+"Finish Total (sec)",,109,Passed,"",basic.finish,

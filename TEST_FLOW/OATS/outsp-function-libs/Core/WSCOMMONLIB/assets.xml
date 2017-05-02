@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><assets>
+<asset alias="asm40" local="true" sourceType="file" type="GENERICJAR">
+<location category="genericJars" file="asm40.jar" repository="OATS" type="repository"/>
+</asset>
+<asset alias="groovy204" local="true" sourceType="file" type="GENERICJAR">
+<location category="genericJars" file="groovy204.jar" repository="OATS" type="repository"/>
+</asset>
+<asset alias="groovyxml204" local="true" sourceType="file" type="GENERICJAR">
+<location category="genericJars" file="groovyxml204.jar" repository="OATS" type="repository"/>
+</asset>
+<asset alias="httpclient422" local="true" sourceType="file" type="GENERICJAR">
+<location category="genericJars" file="httpclient422.jar" repository="OATS" type="repository"/>
+</asset>
+<asset alias="httpcore422" local="true" sourceType="file" type="GENERICJAR">
+<location category="genericJars" file="httpcore422.jar" repository="OATS" type="repository"/>
+</asset>
+<asset alias="jdom111" local="true" sourceType="file" type="GENERICJAR">
+<location category="genericJars" file="jdom111.jar" repository="OATS" type="repository"/>
+</asset>
+<asset alias="jxl" local="true" sourceType="file" type="GENERICJAR">
+<location category="genericJars" file="jxl.jar" repository="OATS" type="repository"/>
+</asset>
+<asset alias="sjsxp102" local="true" sourceType="file" type="GENERICJAR">
+<location category="genericJars" file="sjsxp102.jar" repository="OATS" type="repository"/>
+</asset>
+<asset alias="WSREMOVEBLANKNODES" local="true" sourceType="file" type="SCRIPT">
+<location category="outsp-function-libs/Core" file="WSREMOVEBLANKNODES" repository="OATS" type="repository"/>
+</asset>
+<asset alias="OUTSPCORELIB" local="true" sourceType="file" type="SCRIPT">
+<location category="outsp-function-libs/Core" file="OUTSPCORELIB" repository="OATS" type="repository"/>
+</asset>
+<asset alias="soamodelcore1414" local="true" sourceType="file" type="GENERICJAR">
+<location category="genericJars" file="soamodelcore1414.jar" repository="OATS" type="repository"/>
+</asset>
+</assets>

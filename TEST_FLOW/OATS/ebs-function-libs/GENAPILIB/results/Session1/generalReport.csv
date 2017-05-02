@@ -1,0 +1,5 @@
+966,1,GENAPILIB,10/08/2015 17:04:21 PM,Passed,10/08/2015 17:04:19 PM,basic.step,ebs-function-libs,,,,
+"Page",Record ID,Playback Time (sec),Result,"Summary",Type,
+"Initialize Total (sec)",,379,Passed,"",basic.init,
+"Iteration Total (sec)",,88,Passed,"",basic.iteration,
+"Finish Total (sec)",,59,Passed,"",basic.finish,

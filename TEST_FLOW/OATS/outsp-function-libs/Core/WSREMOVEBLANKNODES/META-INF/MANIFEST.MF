@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Require-Bundle: oracle.oats.jagent.lib3rdparty,oracle.oats.javaAgent,o
+ racle.oats.jagent.cmdline,org.apache.jakarta_log4j,oracle.oats.framew
+ ork,oracle.oats.utilities,oracle.oats.jagent.scripting,oracle.oats.lb
+ rowser,oracle.oats.parser,oracle.oats.scripting.modules.webService.li
+ b3rdparty,oracle.oats.scripting.modules.utilities.api,oracle.oats.scr
+ ipting.modules.basic.api,oracle.oats.scripting.modules.http.api,oracl
+ e.oats.scripting.modules.http.api.dom,oracle.oats.scripting.modules.h
+ ttp.api.lib,oracle.oats.scripting.modules.webService.api,oracle.oats.
+ scripting.modules.webService.api.lib
+Bundle-Version: 1.0.0.qualifier
+Bundle-Name: WSREMOVEBLANKNODES
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: OATS.outsp_function_libs.WSREMOVEBLANKNODES
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets>
+<asset alias="telnet20111027" local="true" sourceType="file" type="GENERICJAR">
+<location path="jar/telnet20111027.jar" type="relative"/>
+</asset>
+</assets>

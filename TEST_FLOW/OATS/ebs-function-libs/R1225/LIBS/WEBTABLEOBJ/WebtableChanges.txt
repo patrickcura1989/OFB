@@ -1,0 +1,105 @@
+//WebTable Modification
+
+Issue: Unable to idetnify the table
+Reported on: 13th Apr 2015 and Fixed on 23rd Apr 2015
+
+Navigation:
+login: mnt/welcome
+resp: EAM Self Service Time and Expenses|Vision Corporation
+Navigation Path: Time > Create Timecard
+
+Reasons for Failure:
+1. Table Column is having spaces within the Column Name like t('5','1'), t(5) etc.
+2. Table Columns are available unding td's instead of th's
+3. Failing at waitForColumn also as Table Column xpaht is identified as
+
+"/web:window[@index='0' or @title='Recent Timecards: Moll, Mr. Joe, 947']/web:document[@index='0']/web:td[@text="
+
+
+
+Asset Number t(&apos;5&apos;)" or @index='100']"
+
+
+
+Maded Changes at:
+
+JavaScript:
+
+Old Code:
+function getInnerText(cell){
+
+	var columnValue = cell.textContent;
+	
+	if(cell.getElementsByTagName('script').length > 0){
+				
+		
+		var scriptTagVal = cell.getElementsByTagName('script')[0].textContent;
+				
+		var scriptTagPostion = columnValue.search(scriptTagVal.slice(1,5));
+				
+		columnValue = columnValue.substr(0,scriptTagPostion-1);
+				
+				
+	}
+
+	return columnValue;
+
+}
+
+New Code:
+
+function getInnerText(cell){
+
+	var columnValue = cell.textContent;
+
+	columnValue = columnValue.replace(/t\(.*?\)/g,''); //Used for Replacting t('5','6') or t(8,0) or t('5') ************** New change *************
+
+	
+	if(cell.getElementsByTagName('script').length > 0){
+				
+		
+		var scriptTagVal = cell.getElementsByTagName('script')[0].textContent;
+		
+		************** Start of New change *************
+		scriptTagVal = scriptTagVal.replace(/t\(.*?\)/g,'');
+
+		if(scriptTagVal == null || scriptTagVal == ''){
+			return columnValue;
+		}
+		
+		************** End of New change *************		
+		
+		var scriptTagPostion = columnValue.search(scriptTagVal.slice(1,5));
+				
+		columnValue = columnValue.substr(0,scriptTagPostion-1);
+				
+				
+	}
+
+	return columnValue;
+
+}
+
+WebTableObj:
+
+Function: waitForColumn(String columnName)
+		
+		//Old Code
+		if(!web.exists(textPath,10)){
+			//textPath = docPath + "/web:td[@text='"+columnName+"*']";
+		}
+		
+		//New Code
+			if(!web.exists(textPath,10)){
+			//textPath = docPath + "/web:td[@text='"+columnName+"*']"; -- Old Path
+			//Modified after looking at xpath 
+			/* XPath : /web:window[@index='0' or @title='Recent Timecards: Moll, Mr. Joe, 947']/web:document[@index='0']/web:td[@text="
+
+
+
+				Asset Number t(&apos;5&apos;)" or @index='100'] */
+			textPath = docPath + "/web:td[@text='*"+columnName+"*']";
+		}
+
+
+
