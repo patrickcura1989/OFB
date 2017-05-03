@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><assets>
+<asset alias="test2" local="true" sourceType="file" type="SCRIPT">
+<location path="../test2" type="relative"/>
+</asset>
+<asset alias="GENLIB" local="true" sourceType="file" type="SCRIPT">
+<location path="../../OATS/ebs-function-libs/GENLIB" type="relative"/>
+</asset>
+</assets>

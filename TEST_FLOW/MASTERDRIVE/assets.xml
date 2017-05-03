@@ -6,6 +6,6 @@
 <location path="../test_scenario_1" type="relative"/>
 </asset>
 <asset alias="GENLIB" local="true" sourceType="file" type="SCRIPT">
-<location path="../OATS/ebs-function-libs/GENLIB" type="relative"/>
+<location path="../../OATS/ebs-function-libs/GENLIB" type="relative"/>
 </asset>
 </assets>
